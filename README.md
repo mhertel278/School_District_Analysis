@@ -8,12 +8,16 @@ A city school district board requested analysis on the math and reading performa
 
 This report details the differences in the analyses once the grades were removed.
 
-## Results
+git## Results
 
 - District Summary
 
+  The total students and budget for the district were unaffected for the district, students' grades were the only thing changed.  The average math grade and percentages of students passing math, reading, and overall all dropped slightly once the grades in question were removed, as can be seen below:
+  
+  - Original Analysis
   ![district original](Resources/district_orig.png)
 
+  - Adjusted Analysis
   ![district updated](Resources/district_updated.png)
 
 - School Summary
