@@ -30,7 +30,7 @@ This report details the differences when the analyses were performed again once 
  
   - Adjusted Analysis!
  
-  [school update](Resources/school_updated.png)
+  ![school update](Resources/school_updated.png)
 
 - Thomas High School's Relative Performance
 
@@ -62,35 +62,35 @@ This report details the differences when the analyses were performed again once 
   
   When analyzing performance based on the budget allocated for each student, the average grades and percentage of students passing dropped ever so slightly for schools allocating 630-644 per student (the spending range in which Thomas falls).  Other spending brackets are unchanged, as only grades in Thomas's bracket were adjusted.
 
- - Original Analysis
+  - Original Analysis
  
-  ![spending unrounded orig](Resources/spending_unrounded_orig.png)
+    ![spending unrounded orig](Resources/spending_unrounded_orig.png)
 
   - Adjusted Analysis
  
-  ![spending unrounded update](Resources/spending_unrounded_updated.png)
+    ![spending unrounded update](Resources/spending_unrounded_updated.png)
 
   However, the changes are only by a miniscule amount to the raw percentages, and once the numbers are rounded in accordance with the district standards, there is no significant change:
 
   - Original Analysis
  
-  ![spending rounded orig](Resources/spending_rounded_orig.png)
+    ![spending rounded orig](Resources/spending_rounded_orig.png)
 
   - Adjusted Analysis
  
-  ![spending rounded updated](Resources/spending_rounded_updated.png)
+      ![spending rounded updated](Resources/spending_rounded_updated.png)
 
 - Scores by School Size
 
-  When analyzinge performance by school size, as with spending, any difference in the final metrics for Thomas's size (1,000 to 2,000 students) are negligible, and disappear once rounded:
+  When analyzinge performance by school size, as with spending, any difference in the final metrics for Thomas's size (1,000 to 2,000 students) are negligible, and unchanged once rounded:
 
   - Original Analysis
 
-  ![size rounded orig](Resources/size_rounded_orig.png)
+    ![size rounded orig](Resources/size_rounded_orig.png)
 
   - Adjusted Analysis
  
-  ![size rounded updated](Resources/size_rounded_updated.png)
+    ![size rounded updated](Resources/size_rounded_updated.png)
 
 - Scores by School Type
 
@@ -98,11 +98,11 @@ This report details the differences when the analyses were performed again once 
 
   - Original Analysis
  
-  ![type rounded orig](Resources/type_rounded_orig.png)
+    ![type rounded orig](Resources/type_rounded_orig.png)
 
   - Adjusted Analysis
  
-  ![type rounded updated](Resources/type_rounded_updated.png)
+    ![type rounded updated](Resources/type_rounded_updated.png)
 
 ## Summary
 
