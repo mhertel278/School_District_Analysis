@@ -106,4 +106,4 @@ This report details the differences when the analyses were performed again once 
 
 ## Summary
 
-
+In summary, the removal of potential false or dishonest grades resulted in a drop in performance for the school district in average scores and percentage of students passing.  Thomas High School specifically saw the drop in average scores and passing percentage.  Thomas's overall performance fell closer to the next ranked school, including a loss of their top ranking in reading passing percentage.  Finally, there can be no record of the performance of the ninth graders at Thomas High School, at least until the extent of the academic dishonesty can be determined.
